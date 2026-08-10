@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>부동산약보감 Blog Ver.1</title>
+    <script>
+      // Polyfill/guard for window.fetch assignment in environments where fetch is getter-only on Window
+      try {
+        let _fetch = window.fetch;
+        Object.defineProperty(window, 'fetch', {
+          get() {
+            return _fetch;
+          },
+          set(v) {
+            _fetch = v;
+          },
+          configurable: true,
+          enumerable: true
+        });
+      } catch (e) {
+        console.warn('Could not re-define window.fetch property descriptor:', e);
+      }
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&family=Gowun+Dodum&family=Black+Han+Sans&family=Jua&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+    <style>
+      @font-face {
+          font-family: 'GmarketSans';
+          font-weight: 700;
+          font-style: normal;
+          src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+          font-display: swap;
+      }
+      @font-face {
+          font-family: 'Cafe24Ssurround';
+          font-weight: normal; /* This font is naturally bold */
+          font-style: normal;
+          src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/Cafe24Ssurround.woff2') format('woff2');
+          font-display: swap;
+      }
+      .custom-scrollbar::-webkit-scrollbar {
+        width: 8px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-track {
+        background: #f1f5f9;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb {
+        background: #cbd5e1;
+        border-radius: 4px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        background: #94a3b8;
+      }
+      @keyframes title-glow {
+        0%, 100% {
+          text-shadow: 0 0 5px rgba(20, 184, 166, 0.3), 0 0 10px rgba(14, 165, 233, 0.2);
+        }
+        50% {
+          text-shadow: 0 0 10px rgba(20, 184, 166, 0.5), 0 0 20px rgba(14, 165, 233, 0.4);
+        }
+      }
+      .title-effect span {
+        animation: title-glow 3s infinite ease-in-out;
+      }
+    </style>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              korean: ['Noto Sans KR', 'sans-serif'],
+            },
+          },
+        },
+      }
+    </script>
+  <link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-white text-slate-800">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

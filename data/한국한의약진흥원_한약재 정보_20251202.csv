@@ -1,0 +1,329 @@
+생약품목코드,일반명,생약명,라틴명,원물생약명,학명,사용부위
+KMH2,가자,Termilia Fruit,Termiliae Fructus,"가자, 가자나무","Termilia chebula Retzins, Termilia chebula Retzins var. tomentella Kurt.",열매
+KMH3,갈근,Pueraria Root,Puerariae Radix,칡,Pueraria lobata Ohwi,뿌리
+KMH5,갈화,Pueraria Flower,Puerariae Flos,칡,Pueraria lobata Ohwi,"꽃봉오리, 막 피기 시작한 꽃"
+KMH6,감국,Chrysanthemum Flower,Chrysanthemi Indici Flos,감국,Chrysanthemum indicum Linn,꽃
+KMH7,감송향,Nardostachys Root,Nardostachyos Radix et Rhizoma,"감송, 감송향","Nardostachys chinensis Batal, Nardostachys jatamansi DC.","뿌리, 뿌리줄기"
+KMH8,감수,Kansui Root,Euphorbiae Kansui Radix,감수,Euphorbia kansui Liou ex Wang,덩이뿌리
+KMH9,감초,Licorice,Glycyrrhizae Radix et Rhizoma,"감초, 보유감초, 광과감초","Glycyrrhiza uralensis Fischer, Glycyrrhiza glabra Linn, Glycyrrhiza inflata Batal.","뿌리, 뿌리줄기"
+KMH10,감초가루,Licorice Powder,Pulvis Glycyrrhizae Radicis et Rhizomatis,"감초, 보유감초, 광과감초","Glycyrrhiza uralensis Fischer, Glycyrrhiza glabra Linn, Glycyrrhiza inflata Batal.","뿌리, 뿌리줄기"
+KMH11,감초유,Glycyrrhizae Radix Preparata cum Mel,Glycyrrhizae Radix Preparata cum Mel,"감초, 보유감초, 광과감초","Glycyrrhiza uralensis Fischer, Glycyrrhiza glabra Linn, Glycyrrhiza inflata Batal.","뿌리, 뿌리줄기"
+KMH12,감초자,Glycyrrhizae Radix Preparata,Glycyrrhizae Radix Preparata,"감초, 보유감초, 광과감초","Glycyrrhiza uralensis Fischer, Glycyrrhiza glabra Linn, Glycyrrhiza inflata Batal.","뿌리, 뿌리줄기"
+KMH14,강향,Dalbergia Wood,Dalbergiae Odoriferae Lignum,강향세,Dalbergia odorifera T. Chen.,"줄기, 뿌리의 심재"
+KMH15,강활,Ostericum Root,Osterici seu Notopterygii Radix et Rhizoma,"강활, 중국강활, 관중강활","Ostericum koreanum Maximowicz, Notopterygium incisum Ting, Notopterygium forbesii Boissier","뿌리, 뿌리줄기"
+KMH16,강황,Curcuma Longa Rhizome,Curcumae Longae Rhizoma,강황,Curcuma longa Linn,뿌리줄기
+KMH17,개자,Mustard Seed,Brassicae Semen,"갓, 개자",Brassica juncea Czern. et Cosson,씨
+KMH18,개자가루,Mustard Seed Powder,Pulvis Brassica Seminis,"갓, 개자",Brassica juncea Czern. et Cosson,씨
+KMH19,갱미,Oryzae Semen,Oryzae Semen,벼,Oryza sativa Linn,씨
+KMH21,건강,Ginger,Zingiberis Rhizoma,생강,Zingiber officile Roscoe,뿌리줄기
+KMH22,건강가루,Ginger Powder,Pulvis Zingiberis Rhizomatis,생강,Zingiber officile Roscoe,뿌리줄기
+KMH23,건강탄,Zingiberis Rhizoma Carbonisatum,Zingiberis Rhizoma Carbonisatum,생강,Zingiber officile Roscoe,뿌리줄기
+KMH24,건율,Chestnut Seed,Castaneae Semen,밤나무,Castanea creta Siebold et Zuccarini,씨
+KMH26,건칠,Lacca Rhois,Lacca Rhois Exsiccata,옻나무,Rhus verniciflua Stokes,수액을 말린 덩어리
+KMH27,검인,Euryale Seed,Euryales Semen,가시연꽃,Euryale ferox Salisbury,씨
+KMH28,겐티아나,Gentian,Gentiae Luteae Radix et Rhizoma,Gentia lutea,Gentia lutea Linn,"뿌리, 뿌리줄기"
+KMH29,겐티아나가루,Gentian Powder,Pulvis Gentiae Luteae Radicis et Rhizomatis,Gentia lutea,Gentia lutea Linn,"뿌리, 뿌리줄기"
+KMH30,견우자,Pharbitis Seed,Pharbitidis Semen,"나팔꽃, 둥근잎나팔꽃","Pharbitis nil Choisy, Pharbitis purpurea Voigt",씨
+KMH31,결명자,Cassia Seed,Cassiae Semen,"결명자, 결명","Cassia tora Linn, Cassia obtusifolia Linn",씨
+KMH34,경천,Hylotelephium Herb,Hylotelephii Herba,"꿩의비름, 기타 동속식물",Hylotelephium erythrostictum H. Ohva,전초
+KMH35,계관화,Cockscomb Flower,Celosiae Cristatae Flos,맨드라미,Celosia cristata Linn,화서
+KMH38,계피,Cinnamon Bark,Cassiae Cortex Interior,육계,Cinmomum cassia J.Presl,줄기껍질
+KMH39,계지,Cinnamon Twig,Cinmomi Ramulus,육계,Cinmomum cassia J.Presl,어린가지
+KMH40,계혈등,Spatholobus Stem,Spatholobi Caulis,밀화두,Spatholobus suberectus Dunn,가지줄기
+KMH43,고량강,Alpinia Officinarum Rhizome,Alpiniae Officiri Rhizoma,고량강,Alpinia officirum Hance,뿌리줄기
+KMH44,고련피,Melia Bark,Meliae Cortex,"멀구슬나무, 천련","Melia azedarach Linn, Melia toosendan Sieb. et Zucc.","수피, 뿌리껍질"
+KMH45,고목,Picrasma Wood,Picrasmae Lignum,소나무,Picrasma quassioides Bennet,줄기
+KMH46,고목가루,Picrasma Wood Powder,Pulvis Picrasmae Ligni,소나무,Picrasma quassioides Bennet,줄기
+KMH47,고본,Ligusticum Rhizome,Ligustici Tenuissimi Rhizoma et Radix,"고본, 중국고본, 요고본","Ligusticum tenuissimum Kitagawa, Ligusticum sinense Oliv., Ligusticum jeholense kai et Kitagawa","뿌리줄기, 뿌리"
+KMH48,고삼,Sophora Root,Sophorae Radix,고삼,Sophora flavescens Solander ex Aiton,뿌리
+KMH49,고삼가루,Sophora Root Powder,Pulvis Sophorae Radicis,고삼,Sophora flavescens Solander ex Aiton,뿌리
+KMH52,고추,Capsicum,Capsici Fructus,"고추, 당초",Capsicum annuum Linn,열매
+KMH53,고추가루,Capsicum Powder,Pulvis Capsici Fructus,"고추, 당초",Capsicum annuum Linn,열매
+KMH54,곡기생,Mistletoe,Visci Ramulus et Folium,겨우살이,Viscum album L. var. coloratum Ohwi,"잎, 줄기, 가지"
+KMH55,곡아,Malt,Oryzae Fructus Germitus,벼,Oryza sativa Linn,"벼 열매 발아, 발아시킨 열매"
+KMH57,곡정초,Eriocaulon Flower,Eriocauli Flos,"곡정초, 장구밥나무","Eriocaulon sieboldianum Siebold et Zuccarini, Eriocaulon buergerianum Koernicke",두상화서
+KMH60,골담초근,Caragana Root,Caragae Radix,"골담초, 기타동속 식물",Caraga sinica (Buchoz) Rehder,뿌리
+KMH61,골쇄보,Drynaria Rhizome,Dryriae Rhizoma,곡골,Dryria fortunei J. Smith,뿌리줄기
+KMH66,과질,Melon Pedicel,Melonis Pedicellus,참외,Cucumis melo Linn,과두
+KMH67,곽향,Agastache Herb,Agastachis Herba,배초향,Agastache rugosa (Fischer et Meyer) O. Kuntze,지상부
+KMH68,관동화,Coltsfoot Flower,Farfarae Flos,관동,Tussilago farfara Linn,꽃봉오리
+KMH71,관중,Drynaria Rhizome,Dryopteridis Crassirhizomatis Rhizoma,관중,Dryopteris crassirhizoma kai,"뿌리줄기, 엽병의 잔기"
+KMH72,과루근,Trichosanthes Root,Trichosanthis Radix,"하늘타리, 노랑하늘타리","Trichosanthes kirilowii Maximowicz, Trichosanthes rosthornii Harms",뿌리
+KMH73,과루인,Trichosanthes Seed,Trichosanthis Semen,"하늘타리, 노랑하늘타리","Trichosanthes kirilowii Maximowicz, Trichosanthes rosthornii Harms",씨
+KMH74,광곽향,Pogostemon Herb,Pogostemonis Herba,광곽향,Pogostemon cablin Bentham,지상부
+KMH75,금전초,Desmodium Herb,Desmodii Herba,금전초,Desmodium styracifolium (Osbeck) Merrill,전초
+KMH77,괴각,Sophora Fruit,Sophorae Fructus,회화나무,Sophora japonica Linn,열매
+KMH79,괴화,Sophora Flower,Sophorae Flos,회화나무,Sophora japonica Linn,"봉오리꽃, 꽃"
+KMH83,구기자,Lycium Fruit,Lycii Fructus,"구기자나무, 영녕구기","Lycium chinense Miller, Lycium barbarum Linn",열매
+KMH84,구맥,Dianthus Herb,Dianthi Herba,"술패랭이꽃, 패랭이꽃","Dianthus superbus var. longicalycinus Williams, Dianthus chinensis Linn",지상부
+KMH85,구자,Leek Seed,Allii Tuberosi Semen,부추,Allium tuberosum Rottler,씨
+KMH86,구절초,Chrysanthemum Zawadskii Herb,Chrysanthemi Zawadskii Herba,"구절초, 바위구절초","Chrysanthemum zawadskii Herbich var. latilobum (Maxim.) Kitamura, Chrysanthemum zawadskii var. coreanum (kai)",전초
+KMH87,구척,Cibotium Rhizome,Cibotii Rhizoma,금모구척,Cibotium barometz J. Smith,뿌리줄기
+KMH90,국화,Chrysanthemum Flower,Chrysanthmi Flos,감국,Chrysanthemum morifolium Ramatuelle,꽃
+KMH91,권백,Selaginella Herb,Selaginellae Herba,"부처손, 바위손","Selaginella tamarisci Spring, Selaginella pulvita Maxim.",전초
+KMH92,권삼,Bistort Rhizome,Bistortae Rhizoma,범꼬리,Bistorta manshuriensis Komarov,뿌리줄기
+KMH94,귀전우,Euonymus Wing,Euonymi Ramuli Suberalatum,화살나무,Euonymus alatus Siebold,코르크
+KMH106,금영자,Cherokee Rose Fruit,Rosae Laevigatae Fructus,금영자,Rosa laevigata Michaux,열매
+KMH108,금은화,Honeysuckle Flower,Lonicerae Flos,인동덩굴,Lonicera japonica Thunberg,"봉오리꽃, 막 피기 시작한 꽃"
+KMH109,금전초,Lysimachia Herb,Lysimachiae Herba,금전초,Lysimachia christie Hance,전초
+KMH110,급성자,Balsam Seed,Impatientis Semen,봉선화,Impatiens balsami Linn,씨
+KMH111,길경,Platycodon Root,Platycodonis Radix,도라지,Platycodon grandiflorum A. De Candolle,뿌리
+KMH112,길경가루,Platycodon Root Powder,Pulvis Platycodonis Radicis,도라지,Platycodon grandiflorum A. De Candolle,뿌리
+KMH113,길초근,Valerian Root,Valeriae Radix et Rhizoma,"쥐오줌풀, 발레리안 동속식물",Valeria fauriei Briquet,"뿌리, 뿌리줄기"
+KMH118,낙석등,Trachelospermum Stem,Trachelospermi Caulis,"마삭줄, 털마삭줄","Trachelospermum jasminoides var. pubescens Makino, Trachelospermum asiaticum kai",잎이붙은줄기
+KMH127,대극,Euphorbia Root,Euphorbiae Fischeriae Radix,"대극, 원화대극","Euphorbia fischeria Steudel, Euphorbia ebracteolata Hayata",뿌리
+KMH129,나복자,Radish Seed,Raphani Semen,무,Raphanus sativus Linn,씨
+KMH132,노근,Reed Rhizome,Phragmitis Rhizoma,갈대,Phragmites communis Trinius,뿌리줄기
+KMH133,로로통,Sweetgalls Fruit,Liquidambaris Fructus,풍향나무,Liquidambar formosa Hance,열매
+KMH135,노회,Aloe,Aloe,Aloe속 식물,"Aloe barbadensis Linn, Aloe ferox Miller",잎의즙액
+KMH146,누로,Rhaponticum Root,Rhapontici Radix,"뻐꾹채, 절두산, 큰절두산","Rhaponticum uniflorum (L.) DC., Echinops setifer Linn",뿌리
+KMH148,능소화,Trumpet Creeper Flower,Campsitis Flos,"능소화, 미국능소화","Campsis grandiflora Schumann, Campsis radicans Seemen",꽃
+KMH151,녹차가루,Green Tea Powder,Camellia sinensis,녹차나무,Camellia sinensis (L) Kuntze,"어린 잎"
+KMH153,단삼,Salvia Root,Salviae Miltiorrhizae Radix,단삼,Salvia miltiorrhiza Bunge,뿌리
+KMH157,담죽엽,Lophatherum Herb,Lophatheri Herba,주름잎풀,Lophatherum gracile Bronghiart,잎과줄기
+KMH158,당귀,Angelica Root,Angelicae Gigantis Radix,참당귀,Angelica gigas kai,뿌리
+KMH159,당삼,Codonopsis Root,Codonopsis Pilosulae Radix,"당삼, 소화당삼, 천당삼","Codonopsis pilosula nnfeldt...",뿌리
+KMH160,당약,Swertia Herb,Swertiae Herba,쓴풀,Swertia japonica Makino,전초
+KMH161,대계,Thistle Herb,Cirsii Herba,"가시엉겅퀴, 기타엉겅퀴동속식물",Cirsium japonicum DC. var. ussuriense,전초
+KMH162,대극,Euphorbia Pekinensis Root,Euphorbiae Pekinensis Radix,대극,Euphorbia pekinensis Ruprecht,뿌리
+KMH165,대복피,Areca Husk,Arecae Pericarpium,빈랑,Areca catechu Linn,과피
+KMH166,대산,Garlic Bulb,Allii Bulbus,마늘,Allium sativum Linn,비늘줄기
+KMH171,대추,Jujube,Zizyphi Fructus,"대추나무, 보은대추나무",Zizyphus jujuba Miller var. inermis Rehder,열매
+KMH173,대황,Rhubarb,Rhei Radix et Rhizoma,"장엽대황, 당구특대황, 약용대황",Rheum palmatum Linn,"뿌리, 뿌리줄기"
+KMH179,도인,Peach Kernel,Persicae Semen,"복숭아나무, 산복사","Prunus persica Batsch, Prunus davidia Franchet",씨
+KMH183,독활,Aralia Root,Araliae Continentalis Radix,독활,Aralia continentalis Kitagawa,뿌리
+KMH186,동규자,Mallow Seed,Malvae Fructus,아욱,Malva verticillata Linn,열매
+KMH198,두충,Eucommia Bark,Eucommiae Cortex,두충,Eucommia ulmoides Oliver,줄기껍질
+KMH204,등심초,Juncus Pith,Junci Medulla,골풀,Juncus effusus Linn,줄기 안의 수
+KMH205,등피,Bitter Orange Peel,Aurantii Pericarpuim,광귤나무,Citrus aurantium Linn,열매껍질
+KMH215,마인,Hemp Seed,Canbis Semen,대마,Canbis sativa Linn,씨
+KMH217,마치현,Purslane Herb,Portulacae Herba,쇠비름,Portulaca oleracea Linn,전초
+KMH218,마편초,Verbena Herb,Verbee Herba,마편초,Verbe officilis Linn,지상부
+KMH219,마황,Ephedra Herb,Ephedrae Herba,"초마황, 중마황, 목적마황",Ephedra sinica Stapf,초질줄기
+KMH220,마황근,Ephedra Root,Ephdrae Radix et Rhizoma,"초마황, 중마황",Ephedra sinica Stapf,"뿌리, 뿌리줄기"
+KMH224,만형자,Vitex Fruit,Viticis Fructus,"순비기나무, 만형","Vitex rotundifolia Linn fil., Vitex trifolia Linn",열매
+KMH229,목단피,Moutan Root Bark,Moutan Radicis Cortex,모란,Paeonia suffruticosa Andrews,뿌리껍질
+KMH231,맥문동,Liriope Tuber,Liriopis seu Ophiopogonis Tuber,"맥문동, 소엽맥문동","Liriope platyphylla Wang et Tang...",뿌리의 덩이뿌리
+KMH232,맥아,Malt,Hordei Fructus Germitus,보리,Hordeum vulgare Linn,보리를 발아시킨 열매
+KMH237,모근,Imperata Rhizome,Imperatae Rhizoma,띠,Imperata cylindrica Beauvois,뿌리줄기
+KMH242,모과,Chaenomeles Fruit,Chaenomelis Fructus,"모과나무, 명자꽃나무",Chaenomeles sinensis (Thouin) Koehne,열매
+KMH243,목련피,Hibiscus Bark,Hibisci Cortex,무궁화나무,Hibiscus syriacus Linn,"줄기껍질, 뿌리껍질"
+KMH246,목방기,Cocculus Root,Cocculi Radix,댕댕이덩굴,Cocculus trilobus De Candolle,뿌리
+KMH249,목적,Equisetum Herb,Equiseti Herba,속새,Equisetum hyemale Linn,지상부
+KMH252,목통,Akebia Stem,Akebiae Caulis,으름덩굴,Akebia quita Decaisne,줄기
+KMH253,목향,Aucklandia Root,Aucklandiae Radix,목향,Aucklandia lappa Decne.,뿌리
+KMH254,몰약,Myrrh,Myrrha,"몰약나무, 감몰약",Commiphora myrrha Engler,수지
+KMH270,박하,Peppermint,Menthae Herba,박하,Mentha arvensis Linn,지상부
+KMH276,반하,Pinellia Tuber,Pinelliae Tuber,반하,Pinellia terta Breitenbach,덩이줄기
+KMH281,방풍,Saposhnikovia Root,Saposhnikoviae Radix,방풍,Saposhnikovia divaricata Schischkin,뿌리
+KMH283,백과,Ginkgo Seed,Ginkgonis Semen,은행나무,Ginkgo biloba Linn,씨의 알맹이
+KMH284,백굴채,Chelidonium Herb,Chelidonii Herba,애기똥풀,Chelidonium majus Linn,지상부
+KMH285,백급,Bletilla Tuber,Bletillae Rhizoma,자란,Bletilla striata,덩이줄기
+KMH288,백두옹,Pulsatilla Root,Pulsatillae Radix,"할미꽃, 백두옹","Pulsatilla korea kai, Pulsatilla chinensis Regel",뿌리
+KMH289,백렴,Ampelopsis Root,Ampelopsis Radix,가의손,Ampelopsis japonica Makino,덩이뿌리
+KMH291,백미,Cynanchum Root,Cynchi Atrati Radix Et Rhizoma,"백미꽃, 푸른백미",Cynchum atratum Bunge,"뿌리, 뿌리줄기"
+KMH296,백선피,Dictamnus Bark,Dictamni Radicis Cortex,백선,Dictamnus dasycarpus Turczaininov,뿌리껍질
+KMH297,백수오,Cynanchum Wilfordii Root,Cynchi Wilfordii Radix,은조롱,Cynchum wilfordii Hemsley,덩이뿌리
+KMH301,백자인,Thuja Seed,Thujae Semen,측백나무,Thuja orientalis Linn,씨
+KMH303,백지,Angelica Dahurica Root,Angelicae Dahuricae Radix,"구릿대, 구릿대변종",Angelica dahurica Bentham,뿌리
+KMH305,백출,Atractylodes Rhizome,Atractylodis Rhizoma Alba,"삽주, 큰꽃삽주",Atractylodes japonica Koidzumi,뿌리줄기
+KMH307,백두,Dolichos Seed,Dolichoris Semen,편두,Dolichos lablab Linn,씨
+KMH309,백합,Lily Bulb,Lilii Bulbus,"참백합, 백합, 큰화살백합",Lilium lancifolium Thunberg,비늘줄기
+KMH311,백화사설초,Hedyotis Herb,Hedyotidis Herba,백운풀,Hedyotis diffusa Willdenow,전초
+KMH318,복령,Poria,Poria Sclerotium,복령,Poria cocos Wolf,균핵
+KMH320,복분자,Rubus Fruit,Rubi Fructus,복분자딸기,Rubus coreanus Miquel,열매
+KMH326,부자,Prepared Aconite,Aconiti Lateralis Radix Preparata,오두,Aconitum carmichaeli Debeaux,자근
+KMH327,부평,Duckweed,Spirodelae Herba,개구리밥,Spirodela polyrrhiza Schleider,전초
+KMH332,비자,Torreya Seed,Torreyae Semen,"비자나무, 비자",Torreya nuncifera Siebold,씨
+KMH333,비파엽,Loquat Leaf,Eriobotryae Folium,비파나무,Eriobotrya japonica Lindley,잎
+KMH340,사간,Belamcanda Rhizome,Belamcandae Rhizoma,범부채,Belamcanda chinensis Leman.,뿌리줄기
+KMH342,사과락,Luffa Sponge,Luffae Fructus Retinervus,수선화,Luffa cylindrica Roemer,열매 속 관상속
+KMH346,사삼,Adenophora Root,Adenophorae Radix,"잔대, 사삼",Adenophora triphylla var. japonica,뿌리
+KMH347,사상자,Cnidium Fruit,Cnidi Fructus,"벌깨풀, 사상자",Cnidium monieri (L). Cussion,열매
+KMH350,사인,Amomum Fruit,Amomi Fructus,"양춘사, 녹각사",Amomum villosum Loureiro,열매
+KMH352,사프란,Saffron,Crocus,사프란,Crocus sativus Linn,암술머리
+KMH354,사리풀,Thyme,Thymi Herba,"백리향, 타임",Thymus quinquecostatus Celakovski,전초
+KMH362,산사,Hawthorn Fruit,Crataegi Fructus,"산사나무, 산사",Crataegus pintifida Bunge,열매
+KMH364,산수유,Cornus Fruit,Corni Fructus,산수유나무,Cornus officilis Siebold,열매
+KMH366,산약,Dioscorea Rhizome,Dioscoreae Rhizoma,"마, 참마",Dioscorea batatas Decaisne,뿌리줄기
+KMH368,산조인,Zizyphus Seed,Zizyphi Semen,뺏조인,Zizyphus jujuba Miller,씨
+KMH370,산초,Zanthoxylum Peel,Zanthoxyli Pericarpium,"산초나무, 초피나무, 화초",Zanthoxylum piperitum De Candolle,열매껍질
+KMH375,삼릉,Sparganium Rhizome,Sparganii Rhizoma,흑삼릉,Sparganium stoloniferum Buchan,뿌리줄기
+KMH376,삼백초,Saururus Herb,Saururi Herba,삼백초,Saururus chinensis Baillon,전초
+KMH379,상륙,Phytolacca Root,Phytolaccae Radix,"자리공, 미국자리공",Phytolacca esculenta Houttuyn,뿌리
+KMH380,상백피,Mulberry Root Bark,Mori Radicis Cortex,뽕나무,Morus alba Linn,뿌리껍질
+KMH383,상심자,Mulberry Fruit,Mori Fructus,뽕나무,Morus alba Linn,열매
+KMH384,상엽,Mulberry Leaf,Mori Folium,"뽕나무, 산뽕나무",Morus alba Linn,잎
+KMH385,상지,Mulberry Twig,Mori Ramulus,뽕나무,Morus alba Linn,어린가지
+KMH387,생강,Ginger,Zingiberis Rhizoma Recens,생강,Zingiber officile Roscoe,뿌리줄기
+KMH389,생지황,Fresh Rehmannia Root,Rehmanniae Radix Recens,지황,Rehmannia glutinosa Liboschitz,뿌리
+KMH400,석류,Pomegranate,Grati Fructus,석류나무,Punica gratum Linn,열매
+KMH401,석류피,Pomegranate Bark,Grati Cortex,석류나무,Punica gratum Linn,줄기뿌리껍질
+KMH406,석위,Pyrrosia Leaf,Pyrrosiae Folium,"석위, 애기석위, 세잎석위",Pyrrosia lingua Farwell,잎
+KMH409,석창포,Acorus Rhizome,Acori Graminei Rhizoma,석창포,Acorus gramineus Solander,뿌리줄기
+KMH411,선복화,Inula Flower,Inulae Flos,"금불초, 선복화",Inula japonica Thunberg,꽃
+KMH418,세신,Asiasarum Root,Asiasari Radix et Rhizoma,"족도리풀, 서울족도리풀",Asiasarum heterotropoides,뿌리줄기
+KMH421,센나엽,Senna Leaf,Sene Folium,"협엽센나, 엽센나",Cassia angustifolia Vahl,작은잎
+KMH423,소계,Cephalanoplos Herb,Breeae Herba,"조뱅이, 큰조뱅이",Breea segeta Kitamura,전초
+KMH432,속단,Dipsacus Root,Dipsaci Radix,천속단,Dipsacus asperoides,뿌리
+KMH436,송화가루,Pine Pollen,Pini Pollen,소나무,Pinus densiflora Siebold,꽃가루
+KMH442,수오등,Polygonum Vine,Polygoni Multiflori Caulis,하수오,Polygonum multiflorum Thunberg,덩굴줄기
+KMH446,숙지황,Prepared Rehmannia Root,Rehmanniae Radix Preparata,지황,Rehmannia glutinosa Liboschitz,뿌리
+KMH447,스코폴리아근,Scopolia Root,Scopoliae Rhizoma,미치광이풀,Scopolia japonica Maximowicz,뿌리줄기
+KMH448,승마,Cimicifuga Rhizome,Cimicifugae Rhizoma,"승마, 눈빛승마, 눈승마, 촛대승마",Cimicifuga heracleifolia Komarov,뿌리줄기
+KMH451,시티,Kaki Calyx,Kaki Calyx,감나무,Diospyros kaki Thunberg,꽃받침
+KMH453,시호,Bupleurum Root,Bupleuri Radix,"시호, 참시호",Bupleurum falcatum Linn,뿌리
+KMH454,식나무,Peucedanum Root,Peucedani Japonici Radix,갯기름나물,Peucedanum japonicum Thunberg,뿌리
+KMH457,신이,Magnolia Bud,Magnoliae Flos,"망울목련, 백목련, 목련",Magnolia biondii Pampanini,꽃봉오리
+KMH464,봉출,Zedoary Rhizome,Curcumae Rhizoma,"봉출, 온울금",Curcuma phaeocaulis Val.,뿌리줄기
+KMH471,애엽,Artemisia Leaf,Artemisiae Argyi Folium,"황해쑥, 쑥, 강화쑥",Artemisia argyi Lev.,잎줄기
+KMH483,야소루쟁이,Rumex Root,Rumecis Radix,"참소루쟁이, 야소루쟁이",Rumex japonicus Houttuyn,뿌리
+KMH484,양파,Onion,Allii Cepa Bulbus,양파,Allium cepa L.,비늘줄기
+KMH487,어성초,Houttuynia Herb,Houttuyniae Herba,약모밀,Houttuynia cordata Thunberg,지상부
+KMH488,여로,Veratrum Root,Veratri Rhizoma Et Radix,"참여로, 박새",Veratrum nigrum Linn,뿌리
+KMH489,여정실,Ligustrum Fruit,Ligustri Fructus,"광나무, 당광나무",Ligustrum lucidum Aiton,열매
+KMH491,연교,Forsythia Fruit,Forsythiae Fructus,"의주개나리, 당개나리",Forsythia viridissima Lindley,열매
+KMH495,연심,Lotus Plumule,Nelumbinis Plumula,연꽃,Nelumbo nucifera Gaertner,어린싹
+KMH496,연자육,Nelumbo Seed,Nelumbinis Semen,연꽃,Nelumbo nucifera Gaertner,씨
+KMH497,연전초,Glechoma Herb,Glechomae Herba,긴병꽃풀,Glechoma grandis,전초
+KMH501,영실,Rosa Fruit,Rosae Multiflorae Fructus,찌르레기나무,Rosa multiflora Thunberg,열매
+KMH505,예지자,Akebia Fruit,Akebiae Fructus,으름덩굴,Akebia quita Decaisne,열매
+KMH506,오가피,Acanthopanax Bark,Acanthopacis Cortex,오갈피나무,Acanthopax sessiliflorum Seeman,뿌리줄기껍질
+KMH510,오매,Mume Fruit,Mume Fructus,매실나무,Prunus mume Siebold,열매
+KMH511,오미자,Schisandra Fruit,Schisandrae Fructus,오미자,Schisandra chinensis Baillon,열매
+KMH513,오배자,Rhus Galls,Galla Rhois,붉나무,Rhus javanica Linn,벌레집
+KMH514,오수유,Evodia Fruit,Evodiae Fructus,"오수유, 게오수유",Evodia rutaecarpa Bentham,열매
+KMH517,오약,Lindera Root,Linderae Radix,오약,Lindera strichnifolia Ferndez Villar,뿌리
+KMH519,옥죽,Polygonatum Rhizome,Polygoti Odorati Rhizoma,"둥굴레, 옥죽, 층층둥굴레",Polygotum odoratum Druce,뿌리줄기
+KMH520,옥수수수염,Corn Silk,Maydis Stigma,옥수수,Zea mays Linn,암술머리
+KMH522,와송,Orostachys Herb,Orostachydis Herba,바위솔,Orostachys japonicus A. Berger,전초
+KMH528,용아초,Solanum Herb,Solani Nigri Herba,까마중,Solanum nigrum Linn,지상부
+KMH530,용담,Gentian Root,Gentiae Scabrae Radix et Rhizoma,"용담, 과엽용담",Gentia scabra Bunge,뿌리줄기
+KMH532,짚신나물,Agrimonia Herb,Agrimoniae Herba,짚신나물,Agrimonia pilosa Ledebour,전초
+KMH534,용안육,Longan Aril,Longan Arillus,용안,Dimocarpus longan Loureiro,헛씨껍질
+KMH538,우방근,Arctium Root,Arctii Radix,우엉,Arctium lappa Linn,뿌리
+KMH539,우방자,Arctium Fruit,Arctii Fructus,우엉,Arctium lappa Linn,열매
+KMH541,우슬,Achyranthes Root,Achyranthis Radix,"쇠무릎, 우슬",Achyranthes japonica kai,뿌리
+KMH542,우절,Lotus Rhizome Node,Nelumbinis Rhizomatis Nodus,연꽃,Nelumbo nucifera Gaertner,뿌리마디
+KMH545,욱리인,Prunus Seed,Pruni Japonicae Semen,"이스라지, 옥매",Prunus japonica Thunb,씨
+KMH552,원지,Polygala Root,Polygalae Radix,원지,Polygala tenuifolia Willdenow,뿌리
+KMH556,원화,Genkwa Flower,Genkwae Flos,팟꽃나무,Daphne genkwa Siebold,꽃봉오리
+KMH559,위령선,Clematis Root,Clematidis Radix,"사위질빵, 으아리",Clematis manshurica Ruprecht,뿌리
+KMH562,유근피,Elm Bark,Ulmi Cortex,느릅나무,Ulmus macrocarpa Hance,뿌리껍질
+KMH565,육계,Cinnamon Bark,Cinmomi Cortex,육계,Cinmomum cassia J.Presl,줄기껍질
+KMH568,육두구,Nutmeg,Myristicae Semen,육두구,Myristica fragrans Houttuyn,씨
+KMH570,육종용,Cistanche Herb,Cistanchis Herba,육종용,Cistanche deserticola Y. C. Ma,육질줄기
+KMH572,율초,Humulus Herb,Humuli Herba,환삼덩굴,Humulus japonicus Siebold,지상부
+KMH574,은호,Stellaria Root,Stellariae seu Gypsophilae Radix,은호,Stellaria dichotoma Linn,뿌리
+KMH575,은행잎,Ginkgo Leaf,Ginkgo Folium,은행나무,Ginkgo biloba Linn,잎
+KMH576,음양곽,Epimedium Herb,Epimedii Herba,"삼지구엽초, 음양곽",Epimedium koreanum kai,지상부
+KMH577,의이인,Coix Seed,Coicis Semen,율무,Coix lacrymajobi var. mayuen,씨
+KMH580,익모초,Motherwort Herb,Leonuri Herba,익모초,Leonurus japonicus Houttuyn,지상부
+KMH581,익지,Bitter Cardamon,Alpiniae Oxyphyllae Fructus,익지,Alpinia oxyphylla Miquel,열매
+KMH583,인동,Lonicera Vine,Lonicerae Folium et Caulis,인동덩굴,Lonicera japonica Thunberg,잎줄기
+KMH584,인삼,Ginseng Root,Ginseng Radix,인삼,Pax ginseng C. A. Meyer,뿌리
+KMH587,인진호,Capillaris Herb,Artemisiae Capillaris Herba,사철쑥,Artemisia capillaris Thunberg,지상부
+KMH588,일당귀,Japanese Angelica Root,Angelicae Acutilobae Radix,왜당귀,Angelica acutiloba Kitagawa,뿌리
+KMH591,임자,Perilla Seed,Perillae Japonicae Semen,들깨,Perilla frutescens Britton,씨
+KMH593,자초,Lithospermum Root,Lithospermi Radix,지치,Lithospermum erythrorhizon,뿌리
+KMH604,자소엽,Perilla Leaf,Perillae Folium,차조기,Perilla frutescens Britton,잎줄기
+KMH605,자소자,Perilla Fruit,Perillae Fructus,차조기,Perilla frutescens Britton,열매
+KMH606,자실,Catalpa Fruit,Catalpae Fructus,개오동나무,Catalpa ovata G. Don,열매
+KMH608,자오가,Acanthopanax Root,Acanthopacis Senticosi Radix Et Rhizoma,가시오갈피,Acanthopax senticosus Harms,뿌리
+KMH609,자원,Aster Root,Asteris Radix et Rhizoma,개미취,Aster tataricus Linn,뿌리줄기
+KMH614,작약,Peony Root,Paeoniae Radix,작약,Paeonia lactiflora Pallas,뿌리
+KMH620,저령,Polyporus,Polyporus,저령,Polyporus umbellatus Fries,균핵
+KMH621,저근피,Boehmeria Root,Boehmeriae Radix,모시풀,Boehmeria nivea Gaud.,뿌리
+KMH622,저백피,Ailanthus Bark,Ailanthi Radicis Cortex,가중나무,Ailanthus altissima Swingle,수피
+KMH623,저실자,Broussonetia Fruit,Broussonetiae Fructus,"닥나무, 꾸지나무",Broussonetia papyrifera,열매
+KMH634,전호,Peucedanum Root,Peucedani Radix,바디나물,Peucedanum praeruptorum Dunn,뿌리
+KMH635,절패모,Fritillaria Bulb,Fritillariae Thunbergii Bulbus,절패모,Fritillaria thunbergii Miquel,비늘줄기
+KMH638,정력자,Lepidium Seed,Lepidii seu Descurainiae Semen,"다닥냉이, 재등",Lepidium apetalum Willdenow,씨
+KMH639,정류,Tamarix Branch,Tamarics Cacumen,위류,Tamarix juniperi Bunge,어린가지
+KMH642,정향,Clove,Syzygii Flos,정향나무,Syzygium aromaticum Merrill,봉오리꽃
+KMH646,제니,Adenophora Root,Adenophorae Remotiflori Radix,모싯대,Adenophora remotiflorus Miquel,뿌리
+KMH649,조각자,Gleditsia Spine,Gleditsiae Spi,조각자나무,Gleditsia japonica Miquel,가시
+KMH650,조구등,Uncaria Hook,Uncariae Ramulus cum Uncus,화구등,Uncaria sinensis Havil,어린가지
+KMH651,조각자열매,Gleditsia Fruit,Gleditsiae Fructus,조각자나무,Gleditsia sinensis Lamark,열매
+KMH652,조장구,Rhubarb Root,Rhei Undulatai Rhizoma,종대황,Rheum undulatum Linn,뿌리줄기
+KMH658,죽엽,Bamboo Leaf,Bambusae Sulcus,"솜대, 왕대",Phllylostachys nigra Munro,잎
+KMH659,죽여,Bamboo Shaving,Phyllostachyos Caulis in Taeniam,"솜대, 왕대",Phyllostachys nigra Munro,중간껍질
+KMH661,지실,Immature Orange Fruit,Aurantii Fructus Immaturus,탱자나무,Citrus aurantium Linn,미성숙열매
+KMH662,지골피,Lycium Bark,Lycii Radicis Cortex,구기자나무,Lycium chinense Miller,뿌리껍질
+KMH663,지구자,Hovenia Seed,Hoveniae Semen seu Fructus,헛개나무,Hovenia dulcis Thunb.,열매
+KMH666,지모,Anemarrhena Rhizome,Anemarrhee Rhizoma,지모,Anemarrhe asphodeloides Bunge,뿌리줄기
+KMH668,지부자,Kochia Fruit,Kochiae Fructus,댑싸리,Kochia scoparia Schrader,열매
+KMH669,지각,Poncirus Fruit,Ponciri Fructus Immaturus,탱자나무,Poncirus trifoliata Rafinesque,열매
+KMH670,지유,Sanguisorba Root,Sanguisorbae Radix,"오이풀, 긴잎오이풀",Sanguisorba officilis Linn,뿌리
+KMH673,지황,Rehmannia Root,Rehmanniae Radix,지황,Rehmannia glutinosa Liboschitz,뿌리
+KMH674,진교,Gentian Root,Gentiae Macrophyllae Radix,"진교, 큰잎용담",Gentia macrophylla Pallas,뿌리
+KMH677,진피,Ash Bark,Fraxini Cortex,물푸레나무,Fraxinus rhynchophylla Hance,줄기껍질
+KMH678,진피(귤피),Citrus Peel,Citri Unshius Pericarpium,귤나무,Citrus unshiu Markovich,열매껍질
+KMH680,질경이,Tribulus Fruit,Tribuli Fructus,남사자,Tribulus terrestris Linn,열매
+KMH682,차전자,Plantago Seed,Plantaginis Semen,질경이,Plantago asiatica Linn,씨
+KMH684,차전초,Plantago Herb,Plantaginis Herba,질경이,Plantago asiatica Linn,전초
+KMH685,창이자,Xanthium Fruit,Xanthii Fructus,도꼬마리,Xanthium strumarium Linn,열매
+KMH686,창출,Atractylodes Rhizome,Atractylodis Rhizoma,"모창출, 남창출",Atractylodes lancea De Candlle,뿌리줄기
+KMH689,천궁,Cnidium Rhizome,Cnidii Rhizoma,"일천궁, 중국천궁",Cnidium officile Makino,뿌리줄기
+KMH692,천남성,Arisaema Rhizome,Arisaematis Rhizoma,"둥근잎천남성, 천남성",Arisaema amurense Maximowicz,덩이뿌리
+KMH695,천마,Gastrodia Rhizome,Gastrodiae Rhizoma,천마,Gastrodia elata Blume,덩이줄기
+KMH697,천문동,Asparagus Tuber,Asparagi Tuber,천문동,Asparagus cochinchinensis Merrill,덩이뿌리
+KMH704,천오,Aconite Tuber,Aconiti Tuber,오두,Aconitum carmichaeli Debeaux,모근
+KMH705,천초,Madder Root,Rubiae Radix,꼭두서니,Rubia akane kai,뿌리
+KMH707,천패모,Fritillaria Bulb,Fritillariae Cirrhosae Bulbus,"천패모, 암패모",Fritillaria cirrhosa D. Don,비늘줄기
+KMH714,청상자,Celosia Seed,Celosiae Semen,개맨드라미,Celosia argentea Linn,씨
+KMH715,청피,Immature Citrus Peel,Citri Unshius Pericarpium Immaturus,귤나무,Citrus unshiu Markovich,미성숙열매껍질
+KMH716,청호,Artemisia Annua Herb,Artemisiae Annuae Herba,개똥쑥,Artemisia annua Linn,지상부
+KMH717,초과,Tsaoko Fruit,Amomi Tsaoko Fructus,초과,Amomum tsaoko Crevost,열매
+KMH718,초두구,Alpinia Seed,Alpiniae Katsumadai Semen,초두구,Alpinia katsumadai Hayata,씨
+KMH719,초오,Aconite Root,Aconiti Kusnezoffii Tuber,"이삭바가지, 싹눈바가지",Aconitum kusnezoffii Reichb.,덩이뿌리
+KMH723,알기화,Althaea Flower,Althaeae Flos,접시꽃,Althaea rosea Cavanil,꽃
+KMH725,총백,Fistular Onion,Allii Fistulosi Bulbus,대파,Allium fistulosum Linn,비늘줄기
+KMH727,충울자,Motherwort Seed,Leonuri Semen,익모초,Leonurus japonicus Houtt.,씨
+KMH729,측백엽,Thuja Leaf,Thujae Orientalis Folium,측백나무,Thuja orientalis Linn,"어린가지, 잎"
+KMH730,치자,Gardenia Fruit,Gardeniae Fructus,치자나무,Gardenia jasminoides Ellis,열매
+KMH732,칠피,Lacquer Bark,Rhois Vernicifluae Cortex,옻나무,Rhus verniciflua Stokes,줄기껍질
+KMH736,택란,Lycopus Herb,Lycopi Herba,쉽싸리,Lycopus lucidus Turczaininov,지상부
+KMH737,택사,Alisma Rhizome,Alismatis Rhizoma,개택사,Alisma orientale Juzepzuk,덩이줄기
+KMH743,토복령,Smilax Rhizome,Smilacis Rhizoma,청미래덩굴,Smilax chi Linn,뿌리줄기
+KMH744,토사자,Cuscuta Seed,Cuscutae Semen,갯실새삼,Cuscuta chinensis Lamark,씨
+KMH750,파극천,Morinda Root,Morindae Radix,파극천,Morinda officilis How,뿌리
+KMH754,파두,Croton Seed,Crotonis Semen,파두,Croton tiglium Linn,씨
+KMH755,패장,Patrinia Root,Patriniae Radix,마타리,Patrinia villosa Jussieu,뿌리
+KMH760,편축,Polygonum Herb,Polygoni Avicularis Herba,마디풀,Polygonum aviculare Linn,전초
+KMH762,포공영,Dandelion Herb,Taraxaci Herba,"민들레, 흰민들레, 서양민들레",Taraxacum platycarpum H. Dahlstedt,전초
+KMH763,포황,Cattail Pollen,Typhae Pollen,부들,Typha orientalis Presl,꽃가루
+KMH768,피마자,Castor Seed,Ricini Semen,피마자(아주까리),Ricinus communis Linn,씨
+KMH771,하구초,Prunella Spike,Prunellae Spica,꿀풀,Prunella vulgaris Linn,화서
+KMH773,하수오,Polygonum Root,Polygoni Multiflori Radix,적하수오,Polygonum multiflorum Thunberg,덩이뿌리
+KMH780,한인진,Iwayomogi Herb,Artemisiae Iwayomogii Herba,더위지기,Artemisia iwayomogi Kitamura,지상부
+KMH783,합환피,Albizia Bark,Albizziae Cortex,자귀나무,Albizzia julibrissin Durazzini,줄기껍질
+KMH788,해동피,Kalopanax Bark,Kalopacis Cortex,엄나무,Kalopax pictus kai,줄기껍질
+KMH791,해방풍,Glehnia Root,Glehniae Radix,갯방풍,Glehnia littoralis Fr.,뿌리
+KMH792,해백,Allium Macrostemon Bulb,Allii Macrostemi Bulbus,"산달래, 염교",Allium macrostemon Bunge,비늘줄기
+KMH796,해송자,Pine Seed,Pini Koraiensis Semen,잣나무,Pinus koraiensis Siebold,씨
+KMH801,행인,Apricot Kernel,Armeniacae Semen,"살구나무, 개살구나무",Prunus armeniaca Linn,씨
+KMH803,향부자,Cyperus Rhizome,Cyperi Rhizoma,향부자,Cyperus rotundus Linn,뿌리줄기
+KMH806,향유,Elsholtzia Herb,Elsholtziae Herba,향유,Elsholtzia ciliata Hylander,전초
+KMH810,현삼,Scrophularia Root,Scrophulariae Radix,현삼,Scrophularia buergeria Miquel,뿌리
+KMH812,현초,Geranium Herb,Geranii Herba,이질풀,Geranium thunbergii Siebold,지상부
+KMH814,현호색,Corydalis Tuber,Corydalis Tuber,"일현호색, 현호색",Corydalis terta kai,덩이줄기
+KMH816,형개,Schizonepeta Spike,Schizonepetae Spica,형개,Schizonepeta tenuifolia Briquet,꽃이삭
+KMH818,호도,Walnut,Juglandis Semen,호두나무,Juglans regia Linn,씨
+KMH823,호이초,Saxifraga Herb,Saxifragae Herba,바위취,Saxifraga stolonifera Linn,전초
+KMH824,호장근,Polygonum Cuspidatum Root,Polygoni Cuspidati Rhizoma et Radix,호장근,Polygonum cuspidatum Siebold,"뿌리줄기, 뿌리"
+KMH829,홍삼,Red Ginseng,Ginseng Radix Rubra,인삼,Pax ginseng C. A. Meyer,뿌리
+KMH830,홍화,Safflower Flower,Carthami Flos,잇꽃,Carthamus tinctorius Linn,관상화
+KMH831,홍화자,Safflower Seed,Carthami Fructus,잇꽃,Carthamus tinctorius Linn,열매
+KMH838,화피,Birch Bark,Betulae Cortex,자작나무,Betula platyphylla Suk.,수피
+KMH841,황금,Scutellaria Root,Scutellariae Radix,속새속속풀,Scutellaria baicalensis Georgi,뿌리
+KMH843,황기,Astragalus Root,Astragali Radix,"황기, 몽골황기",Astragalus membraceus Bunge,뿌리
+KMH844,황련,Coptis Rhizome,Coptidis Rhizoma,"일황련, 중국황련, 삼각엽황련",Coptis japonica Makino,뿌리줄기
+KMH847,황갈,Lindera Twig,Linderae Ramulus,생강나무,Lindera obtusiloba Blume,어린가지
+KMH848,황백,Phellodendron Bark,Phellodendri Cortex,"황벽나무, 황피수",Phellodendron amurense Ruprecht,줄기껍질
+KMH854,황정,Polygonatum Rhizome,Polygoti Rhizoma,"층층둥굴레, 둥굴레, 낚시둥굴레",Polygotum sibiricum Redoute,뿌리줄기
+KMH858,회향,Fennel Fruit,Foeniculi Fructus,회향,Foeniculum vulgare Miller,열매
+KMH860,후박,Magnolia Bark,Magnoliae Cortex,"일본목련, 후박나무, 당후박",Magnolia ovobata Thunberg,줄기껍질
+KMH862,후추,Black Pepper,Piperis Nigri Fructus,후추,Piper nigrum Linn,열매
+KMH867,흑임자,Black Sesame,Sesami Semen Nigra,참깨,Sesamum indicum Linn,씨
+KMH868,희렴,Siegesbeckia Herb,Siegesbeckiae Herba,"진득찰, 털진득찰",Siegesbeckia pubescens Makino,지상부
